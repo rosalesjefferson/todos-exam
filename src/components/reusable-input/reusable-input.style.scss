@@ -1,0 +1,11 @@
+.form-input__container{
+	max-width: 40rem;
+	margin: 3rem auto 0 auto;
+}
+.form-input{
+	padding: 5px;
+	width: 100%;
+	&:focus{
+		outline: none;
+	}
+}

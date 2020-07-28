@@ -1,0 +1,14 @@
+.todos__lists{
+	max-width: 40rem;
+	margin: 0 auto;
+}
+
+.todo__item{
+	display: grid;
+	grid-template-columns: 1fr 10% 10%;
+	span{
+		justify-self: start;
+	}
+}
+
+
